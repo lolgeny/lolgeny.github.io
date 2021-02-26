@@ -1,1 +1,3 @@
-# **MCQ**: **M**inecraft **C**ommand **Q**uestions (creative name)
+# Stuff
+This is a collection of my things.
+- [mcq](/mcq/index.md)
