@@ -5,4 +5,4 @@
 ---
 
 ## Contents:
-- [Item counting](/itemcount.md)
+- [Item counting](itemcount.md)
