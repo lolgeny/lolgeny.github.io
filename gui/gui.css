@@ -1,0 +1,10 @@
+img,
+canvas {
+    image-rendering: pixelated;
+    position: absolute;
+}
+
+#template {
+    display: none;
+    image-rendering: pixelated;
+}

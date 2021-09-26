@@ -1,0 +1,29 @@
+/** fonts **/
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+body {
+    background-color: darkslategrey;
+    color: white;
+    font-size: 3em;
+    font-family: 'Poppins', sans-serif;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+a:hover {
+    color: lightblue;
+}
+
+ul.gen-list {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    flex-direction: column;
+    list-style-type: none;
+}
+
+ul.gen-list li {}
